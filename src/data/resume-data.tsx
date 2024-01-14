@@ -114,10 +114,10 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "recursivemusings.me",
+      title: "cv",
       techStack: ["Side Project", "Next.js", "MDX", "React"],
       description:
-        "My personal website and blog. Built with Next.js and Notion API",
+        "My personal cv. Built with Next.js",
       logo: RecursiveMusings,
       link: {
         label: "github.com",
