@@ -109,7 +109,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "cv",
+      title: "CV",
       techStack: ["Side Project", "Next.js", "MDX", "React"],
       description:
         "My personal cv. Built with Next.js",
@@ -117,6 +117,39 @@ export const RESUME_DATA = {
       link: {
         label: "github.com",
         href: "https://recursivemusings.com/",
+      },
+    },
+    {
+      title: "Device Parameter Manager",
+      techStack: ["Node.js", "Typescript", "kafka", "PostgresQL", "BullMQ"],
+      description:
+        "A fast scalable service to consume and process messages from a kafka topic and apply them to remote devices, while providing a reliable retry mechanism",
+      logo: '',
+      link: {
+        label: "github.com",
+        href: "",
+      },
+    },
+    {
+      title: "Data Tree Explorer",
+      techStack: ["Node.js", "Typescript", "Rest API", "PostgresQL", "Victoria Metrics"],
+      description:
+        "API service to enable users explore and query a large dataset of time series data",
+      logo: '',
+      link: {
+        label: "github.com",
+        href: "",
+      },
+    },
+    {
+      title: "Compressor Insights",
+      techStack: ["Python", "Azure", "Kubernetes"],
+      description:
+        "Predictive maintenance (ML) service to enable customers monitor and maintain their compressors",
+      logo: '',
+      link: {
+        label: "github.com",
+        href: "",
       },
     },
   ],
