@@ -1,8 +1,3 @@
-import {
-  Danfoss,
-  SDU,
-  RecursiveMusings,
-} from "@/images/logos";
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
@@ -46,7 +41,7 @@ export const RESUME_DATA = {
       link: "https://www.danfoss.com/en-us/about-danfoss/our-businesses/climate-solutions/",
       badges: ["FullTime"],
       title: "Software Developer",
-      logo: Danfoss,
+      logo: '',
       start: "2021",
       end: "-",
       description:
@@ -57,7 +52,7 @@ export const RESUME_DATA = {
       link: "https://www.danfoss.com/en-us/",
       badges: ["FullTime"],
       title: "Innovation Engineer",
-      logo: Danfoss,
+      logo: '',
       start: "2019",
       end: "2021",
       description:
@@ -68,7 +63,7 @@ export const RESUME_DATA = {
       link: "https://www.sdu.dk/en",
       badges: [],
       title: "Academic Advisor",
-      logo: SDU,
+      logo: '',
       start: "2018",
       end: "2019",
       description:
@@ -96,7 +91,7 @@ export const RESUME_DATA = {
         "Redis"
       ],
       description: "A platform to allow customers respond to their utility providers incentives to reduce their energy consumption during peak hours",
-      logo: Danfoss,
+      logo: '',
       link: {
         label: "danfoss.com",
         href: "https://www.danfoss.com/en-us/service-and-support/case-stories/cf/engineering-tomorrow-helps-transform-supermarkets-into-smart-stores-for-demand-response/",
@@ -107,7 +102,7 @@ export const RESUME_DATA = {
       techStack: ["TypeScript", "Node.js", "Kafka", "PostgresQL", "BullMQ"],
       description:
         "Web service to enable users remotely configure 1000s of critical devices securely and reliably",
-      logo: Danfoss,
+      logo: '',
       link: {
         label: "danfoss.com",
         href: "https://danfoss.com",
@@ -118,7 +113,7 @@ export const RESUME_DATA = {
       techStack: ["Side Project", "Next.js", "MDX", "React"],
       description:
         "My personal cv. Built with Next.js",
-      logo: RecursiveMusings,
+      logo: '',
       link: {
         label: "github.com",
         href: "https://recursivemusings.me/",
