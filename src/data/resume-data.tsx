@@ -8,7 +8,7 @@ export const RESUME_DATA = {
   about:
     "Digital Products Enthusiast focused on building scalable, resilient services with extra attention to detail",
   summary:
-    "As a Software Developer, I have successfully taken multiple digital products from 0 to 1. I am adept at developing and deploying scalable products, communicating effectively and ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, Node.js, and PostgresQL. I am no stranger to a fast paced environment and possess 4+ years of experience working in a distributed team.",
+    "Working as a Software Developer, I have successfully taken multiple digital products from 0 to 1. I am adept at developing and deploying scalable products, communicating effectively and ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, Node.js, and PostgresQL. I am no stranger to a fast paced environment and possess 4+ years of experience working in a distributed team.",
   avatarUrl: "https://avatars.githubusercontent.com/u/121028057?v=4",
   personalWebsiteUrl: "https://recursivemusings.me",
   contact: {
