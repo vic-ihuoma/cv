@@ -43,7 +43,7 @@ export const RESUME_DATA = {
       title: "Software Developer",
       logo: '',
       start: "2021",
-      end: "-",
+      end: "Current",
       description:
         "Implemented new features including some that enabled customers remotely configure 1000s of critical devices securely and reliably, worked on improving the way developers ship the code through test driven development, Technologies: Node.js, TypeScript, Kafka, Docker, Kubernetes, Postgres, Redis",
     },
