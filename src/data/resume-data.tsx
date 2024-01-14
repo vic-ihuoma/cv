@@ -116,7 +116,7 @@ export const RESUME_DATA = {
       logo: '',
       link: {
         label: "github.com",
-        href: "https://recursivemusings.me/",
+        href: "https://recursivemusings.com/",
       },
     },
   ],
